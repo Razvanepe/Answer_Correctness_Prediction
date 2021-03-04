@@ -1,5 +1,4 @@
-Riid Answer Answer Correctness Prediction[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[
-==============================
+Riid Answer Answer Correctness Prediction
 
 Capstone for Sprinboard Bootcamp
 
